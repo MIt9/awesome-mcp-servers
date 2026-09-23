@@ -184,6 +184,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Mastra/mcp](https://github.com/mastra-ai/mastra/tree/main/packages/mcp)** - Client implementation for Mastra, providing seamless integration with MCP-compatible AI models and tools.
 - **[Mastra/mcp-docs-server](https://github.com/mastra-ai/mastra/tree/main/packages/mcp-docs-server)** - Provides AI assistants with direct access to Mastra.ai's complete knowledge base.
 - **[MCP Toolbox for Databases](https://github.com/googleapis/genai-toolbox)** - Open source MCP server specializing in easy, fast, and secure tools for Databases.
+- **[mcp-comfy-ui-builder](https://github.com/MIt9/mcp-comfy-ui-builder)** - MCP server for ComfyUI with 50+ tools: node discovery, dynamic workflow builder, WebSocket real-time execution (<100ms latency), 9 templates (txt2img, img2img, inpainting, LoRA, ControlNet), model management. Works with Claude Desktop & Cursor.
 - **[Meilisearch](https://github.com/meilisearch/meilisearch-mcp)** - Interact & query with Meilisearch (Full-text & semantic search API)
 - **[Mercado Libre](https://mcp.mercadolibre.com/)** - Mercado Libre's official MCP server, offering tools to interact with our marketplace, simplifying tasks and product integration.
 - **[Mercado Pago](https://mcp.mercadopago.com/)** - Mercado Pago's official MCP server, offering tools to interact with our API, simplifying tasks and product integration.
